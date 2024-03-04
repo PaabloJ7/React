@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password1",
+      "email": "user1@example.com"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "password": "password2",
+      "email": "user2@example.com"
+    },
+    {
+      "id": "ecb8",
+      "username": "user3",
+      "email": "user3@user3.com",
+      "password": "user3"
+    },
+    {
+      "id": "cf90",
+      "username": "e",
+      "password": "e"
+    },
+    {
+      "id": "fa83",
+      "username": "Juanito",
+      "email": "juanito@gmail.com",
+      "password": "Juanito"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Xiaomi 11T",
+      "description": "Cámara profesional de 108 MP Pantalla AMOLED AdaptiveSync de 120 Hz Carga turbo por cable de 67W",
+      "price": 495,
+      "image": "xioami11t.png",
+      "category": "Xiaomi"
+    },
+    {
+      "id": "2",
+      "name": "iPhone 11",
+      "description": "Potente cámara dual, pantalla Liquid Retina de 6.1 chip A13 Bionic para un rendimiento excepcional Face ID y duración de batería mejorada",
+      "price": 200,
+      "category": "Apple",
+      "image": "iphone11.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Xiaomi 14 Ultra",
+      "description": "Cámara profesional de 108 MP, pantalla AMOLED AdaptiveSync de 120 Hz y carga turbo por cable de 67W para una experiencia móvil excepcional.",
+      "price": 500,
+      "category": "Xiaomi",
+      "image": "xioami14ultra.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Galaxy S24 Ultra",
+      "description": "La era de la AI móvil. Con los nuevos Galaxy S24 Ultra podrás dar rienda suelta a tu creatividad, tu productividad y tus posibilidades a un nivel nunca visto y desde tu dispositivo más cercano: tu smartphone.",
+      "price": 1450,
+      "category": "Samsung",
+      "image": "24ultra.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Galaxy S23 | S23+",
+      "description": "Nuevos colores, más frescos e inspirados en la naturaleza, que se convierten en tintes naturales y se infunden en la montura de metal pulido.",
+      "price": 934,
+      "category": "Samsung",
+      "image": "s23.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Huawei P50 Pro",
+      "description": "Cámara Leica de 50 MP, pantalla OLED de 6.6 pulgadas, procesador Kirin 9000, carga inalámbrica de 50W",
+      "price": 1099,
+      "category": "Huawei",
+      "image": "p50pro.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Google Pixel XL",
+      "description": "La cámara perfecta para tus momentos especiales, pantalla de 5.5 pulgadas, rendimiento excepcional y diseño elegante.",
+      "price": 699,
+      "category": "Google",
+      "image": "pixelxl.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Google Pixel 6a",
+      "description": "Captura la belleza en cada detalle con la cámara de 64 MP, rendimiento potente y duradero, pantalla AMOLED de 6.2 pulgadas.",
+      "price": 599,
+      "category": "Google",
+      "image": "pixel6a.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Google Pixel Fold",
+      "description": "Experimenta la innovación con una pantalla plegable de 7.2 pulgadas, cámara triple de 108 MP y carga rápida de 45W.",
+      "price": 1299,
+      "category": "Google",
+      "image": "pixelfold.jpg"
+    },
+    {
+      "id": "13",
+      "name": "iPhone 13",
+      "description": "La última joya de Apple con triple cámara de 12 MP, chip A15 Bionic, y pantalla Super Retina XDR de 6.1 pulgadas.",
+      "price": 999,
+      "category": "Apple",
+      "image": "iphone13.jpg"
+    },
+    {
+      "id": "14",
+      "name": "iPad Pro 2022",
+      "description": "Potente y versátil, el iPad Pro 2022 con M2 chip, pantalla Liquid Retina XDR de 12.9 pulgadas y 5G redefine la experiencia tablet.",
+      "price": 1299,
+      "category": "Apple",
+      "image": "ipadpro2022.jpg"
+    }
+  ]
+}
